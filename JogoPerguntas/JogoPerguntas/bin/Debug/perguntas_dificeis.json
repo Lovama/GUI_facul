@@ -1,0 +1,62 @@
+[
+    {
+        "Enunciado": "Se todos os filósofos são pensadores e alguns pensadores são cientistas, o que podemos concluir logicamente?",
+        "Alternativas": [
+            "Todos os filósofos são cientistas",
+            "Alguns filósofos são cientistas",
+            "Nenhum filósofo é cientista",
+            "Não é possível concluir logicamente",
+        ],
+        "RespostaCorreta": 3
+    },
+    {
+        "Enunciado": "Quantos segundos existem em exatamente 3 dias completos?",
+        "Alternativas": ["172800", "259200", "86400", "432000"],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Em qual camada da atmosfera ocorre a maioria dos fenômenos meteorológicos?",
+        "Alternativas": ["Mesosfera", "Estratosfera", "Exosfera", "Troposfera"],
+        "RespostaCorreta": 3
+    },
+    {
+        "Enunciado": "Qual é o nome da partícula subatômica com carga negativa?",
+        "Alternativas": ["Próton", "Nêutron", "Elétron", "Fóton"],
+        "RespostaCorreta": 2
+    },
+    {
+        "Enunciado": "Se um trem parte às 13:00 a 80 km/h e outro às 14:00 a 100 km/h na mesma direção, a que horas o segundo alcança o primeiro?",
+        "Alternativas": ["16:00", "17:00", "15:00", "18:00"],
+        "RespostaCorreta": 0
+    },
+    {
+        "Enunciado": "Qual país aboliu a sua monarquia em 2023?",
+        "Alternativas": ["Barbados", "Jamaica", "Austrália", "Canadá"],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Considere a sequência: 2, 6, 12, 20, 30... Qual é o próximo número?",
+        "Alternativas": ["40", "42", "44", "46"],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Qual das alternativas representa uma falácia lógica?",
+        "Alternativas": [
+            "Todos os gatos são mamíferos",
+            "Se chover, molha; molhou, logo choveu",
+            "A soma de ângulos internos de um triângulo é 180°",
+            "A Terra orbita o Sol"
+        ],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Qual o nome do telescópio espacial lançado em 2021 para substituir o Hubble?",
+        "Alternativas": ["James Webb", "Kepler", "Spitzer", "Galileu"],
+        "RespostaCorreta": 0
+    },
+    {
+        "Enunciado": "Em lógica formal, qual conectivo representa uma bicondicional?",
+        "Alternativas": ["?", "?", "¬", "?"],
+        "RespostaCorreta": 1
+    }
+]

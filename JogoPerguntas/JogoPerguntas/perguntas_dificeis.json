@@ -1,0 +1,17 @@
+[
+    {
+        "Enunciado": "Quem escreveu Dom Quixote?",
+        "Alternativas": [ "Shakespeare", "Machado", "Cervantes", "Camões" ],
+        "RespostaCorreta": 2
+    },
+    {
+        "Enunciado": "Maior planeta do Sistema Solar?",
+        "Alternativas": [ "Terra", "Júpiter", "Saturno", "Netuno" ],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Velocidade da luz (aprox.)?",
+        "Alternativas": [ "300.000 km/s", "150.000 km/s", "1.000 km/s", "30.000 km/s" ],
+        "RespostaCorreta": 0
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "Enunciado": "Qual desses elementos é essencial para a respiração celular?",
+        "Alternativas": ["Nitrogênio", "Oxigênio", "Hidrogênio", "Carbono"],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "O que ocorre quando a luz branca passa por um prisma?",
+        "Alternativas": ["Ela desaparece", "Ela escurece", "Ela se divide em várias cores", "Ela se transforma em som"],
+        "RespostaCorreta": 2
+    },
+    {
+        "Enunciado": "Qual é a capital do Uruguai?",
+        "Alternativas": ["Assunção", "Buenos Aires", "Montevidéu", "Santiago"],
+        "RespostaCorreta": 2
+    },
+    {
+        "Enunciado": "O que mede um barômetro?",
+        "Alternativas": ["Temperatura", "Pressão atmosférica", "Velocidade do vento", "Umidade relativa"],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Se João tem o dobro da idade de Ana, e Ana tem 10 anos, qual a idade de João?",
+        "Alternativas": ["15", "20", "25", "30"],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Qual dos seguintes países não faz parte do G7?",
+        "Alternativas": ["Japão", "Canadá", "Brasil", "Alemanha"],
+        "RespostaCorreta": 2
+    },
+    {
+        "Enunciado": "Qual é o planeta mais próximo do Sol?",
+        "Alternativas": ["Marte", "Vênus", "Mercúrio", "Terra"],
+        "RespostaCorreta": 2
+    },
+    {
+        "Enunciado": "Qual o órgão responsável por filtrar o sangue?",
+        "Alternativas": ["Coração", "Estômago", "Pulmão", "Rim"],
+        "RespostaCorreta": 3
+    },
+    {
+        "Enunciado": "Qual o maior país do mundo em área territorial?",
+        "Alternativas": ["China", "Estados Unidos", "Canadá", "Rússia"],
+        "RespostaCorreta": 3
+    },
+    {
+        "Enunciado": "Qual o nome do processo pelo qual as plantas produzem energia?",
+        "Alternativas": ["Respiração", "Digestão", "Fotossíntese", "Fermentação"],
+        "RespostaCorreta": 2
+    }
+]

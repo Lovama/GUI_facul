@@ -1,0 +1,13 @@
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.exe.config
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.exe
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\bin\Debug\JogoPerguntas.pdb
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.csproj.AssemblyReference.cache
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.Form1.resources
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.Properties.Resources.resources
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.csproj.GenerateResource.cache
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.csproj.CoreCompileInputs.cache
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.exe
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerguntas.pdb
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LORVM\source\repos\JogoPerguntas\JogoPerguntas\obj\Debug\JogoPerg.6529A0CA.Up2Date

@@ -1,0 +1,17 @@
+[
+    {
+        "Enunciado": "2 + 2 = ?",
+        "Alternativas": [ "3", "4", "5", "6" ],
+        "RespostaCorreta": 1
+    },
+    {
+        "Enunciado": "Qual a cor do céu?",
+        "Alternativas": [ "Azul", "Verde", "Vermelho", "Amarelo" ],
+        "RespostaCorreta": 0
+    },
+    {
+        "Enunciado": "Qual é o menor número primo?",
+        "Alternativas": [ "1", "2", "3", "0" ],
+        "RespostaCorreta": 1
+    }
+]
