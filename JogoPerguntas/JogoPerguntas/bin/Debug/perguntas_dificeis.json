@@ -1,11 +1,11 @@
-[
+ï»¿[
     {
-        "Enunciado": "Se todos os filósofos são pensadores e alguns pensadores são cientistas, o que podemos concluir logicamente?",
+        "Enunciado": "Se todos os filÃ³sofos sÃ£o pensadores e alguns pensadores sÃ£o cientistas, o que podemos concluir logicamente?",
         "Alternativas": [
-            "Todos os filósofos são cientistas",
-            "Alguns filósofos são cientistas",
-            "Nenhum filósofo é cientista",
-            "Não é possível concluir logicamente",
+            "Todos os filÃ³sofos sÃ£o cientistas",
+            "Alguns filÃ³sofos sÃ£o cientistas",
+            "Nenhum filÃ³sofo Ã© cientista",
+            "NÃ£o Ã© possÃ­vel concluir logicamente"
         ],
         "RespostaCorreta": 3
     },
@@ -15,48 +15,48 @@
         "RespostaCorreta": 1
     },
     {
-        "Enunciado": "Em qual camada da atmosfera ocorre a maioria dos fenômenos meteorológicos?",
+        "Enunciado": "Em qual camada da atmosfera ocorre a maioria dos fenÃ´menos meteorolÃ³gicos?",
         "Alternativas": ["Mesosfera", "Estratosfera", "Exosfera", "Troposfera"],
         "RespostaCorreta": 3
     },
     {
-        "Enunciado": "Qual é o nome da partícula subatômica com carga negativa?",
-        "Alternativas": ["Próton", "Nêutron", "Elétron", "Fóton"],
+        "Enunciado": "Qual Ã© o nome da partÃ­cula subatÃ´mica com carga negativa?",
+        "Alternativas": ["PrÃ³ton", "NÃªutron", "ElÃ©tron", "FÃ³ton"],
         "RespostaCorreta": 2
     },
     {
-        "Enunciado": "Se um trem parte às 13:00 a 80 km/h e outro às 14:00 a 100 km/h na mesma direção, a que horas o segundo alcança o primeiro?",
+        "Enunciado": "Se um trem parte Ã s 13:00 a 80 km/h e outro Ã s 14:00 a 100 km/h na mesma direÃ§Ã£o, a que horas o segundo alcanÃ§a o primeiro?",
         "Alternativas": ["16:00", "17:00", "15:00", "18:00"],
         "RespostaCorreta": 0
     },
     {
-        "Enunciado": "Qual país aboliu a sua monarquia em 2023?",
-        "Alternativas": ["Barbados", "Jamaica", "Austrália", "Canadá"],
+        "Enunciado": "Qual paÃ­s aboliu a sua monarquia em 2023?",
+        "Alternativas": ["Barbados", "Jamaica", "AustrÃ¡lia", "CanadÃ¡"],
         "RespostaCorreta": 1
     },
     {
-        "Enunciado": "Considere a sequência: 2, 6, 12, 20, 30... Qual é o próximo número?",
+        "Enunciado": "Considere a sequÃªncia: 2, 6, 12, 20, 30... Qual Ã© o prÃ³ximo nÃºmero?",
         "Alternativas": ["40", "42", "44", "46"],
         "RespostaCorreta": 1
     },
     {
-        "Enunciado": "Qual das alternativas representa uma falácia lógica?",
+        "Enunciado": "Qual das alternativas representa uma falÃ¡cia lÃ³gica?",
         "Alternativas": [
-            "Todos os gatos são mamíferos",
+            "Todos os gatos sÃ£o mamÃ­feros",
             "Se chover, molha; molhou, logo choveu",
-            "A soma de ângulos internos de um triângulo é 180°",
+            "A soma de Ã¢ngulos internos de um triÃ¢ngulo Ã© 180Â°",
             "A Terra orbita o Sol"
         ],
         "RespostaCorreta": 1
     },
     {
-        "Enunciado": "Qual o nome do telescópio espacial lançado em 2021 para substituir o Hubble?",
+        "Enunciado": "Qual o nome do telescÃ³pio espacial lanÃ§ado em 2021 para substituir o Hubble?",
         "Alternativas": ["James Webb", "Kepler", "Spitzer", "Galileu"],
         "RespostaCorreta": 0
     },
     {
-        "Enunciado": "Em lógica formal, qual conectivo representa uma bicondicional?",
-        "Alternativas": ["?", "?", "¬", "?"],
+        "Enunciado": "Em lÃ³gica formal, qual conectivo representa uma bicondicional?",
+        "Alternativas": ["â†’", "â†”", "âˆ§", "âˆ¨"],
         "RespostaCorreta": 1
     }
 ]
